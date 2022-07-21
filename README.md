@@ -37,4 +37,4 @@ src="https://img.shields.io/github/followers/Nuril-Nuzula?logo=github&style=for-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/xylone"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-<a href="https://trakteer.id/xylone"><img src="https://cdn.trakteer.id/images/mix/navbar-logo.png" widht="200" /></a>
+<a href="https://trakteer.id/xylone/tip"><img src="https://cdn.trakteer.id/images/mix/navbar-logo.png" width="200" /></a>
