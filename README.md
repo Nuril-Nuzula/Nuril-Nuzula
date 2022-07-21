@@ -38,4 +38,3 @@ src="https://img.shields.io/github/followers/Nuril-Nuzula?logo=github&style=for-
 
 <a href="https://www.buymeacoffee.com/xylone"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 <a href="https://trakteer.id/xylone/tip"><img src="https://cdn.trakteer.id/images/mix/navbar-logo.png" width="200" /></a>
-<a href="https://saweria.co/XYLONEE"><img src="https://cdn.trakteer.id/images/mix/navbar-logo.png" width="200" /></a>
