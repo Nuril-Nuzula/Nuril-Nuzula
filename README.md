@@ -4,13 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software
 --------
 
-* 🌍  I'm based in Depok
-* ✉️  You can contact me at [nurilnuzula222@gmail.com](mailto:nurilnuzula222@gmail.com)
-* 🤝  I'm open to collaborating on Everythings
+* 🌍  I'm based in Depok
+* ✉️  You can contact me at [nurilnuzula222@gmail.com](mailto:nurilnuzula222@gmail.com)
+* 🤝  I'm open to collaborating on Everythings
 
 <a href="https://www.github.com/Nuril-Nuzula" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Nuril-Nuzula?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
-
 ### Skills
 
 <p align="left">
@@ -24,11 +23,9 @@ src="https://img.shields.io/github/followers/Nuril-Nuzula?logo=github&style=for-
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/XYLONE" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Nuril-Nuzula" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/real.nuzula" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nuril-nuzula-26nhr/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UC6pJ7C7d4iTJYmyUkryIkOA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
-
+<p align="left"> <a href="https://discord.com/users/XYLONE" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.dribbble.com/Zaphkiell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.github.com/Nuril-Nuzula" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/real.nuzula" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nuril-nuzula-26nhr/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/Nuril N.A" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 ### Badges
 
 <b>My GitHub Stats</b>
