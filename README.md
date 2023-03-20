@@ -23,7 +23,7 @@ src="https://img.shields.io/github/followers/Nuril-Nuzula?logo=github&style=for-
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-3E515A?style=for-the-badge&logo=laravel&logoColor=red)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-3E515A?style=for-the-badge&logo=laravel&logoColor=red)&nbsp; 
 
 #### IDEs
 
